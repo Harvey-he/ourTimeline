@@ -1,14 +1,14 @@
 {
     "timeline":
     {
-        "headline":"我们的时光记录",
+        "headline":"娟和万里的时光记录",
         "type":"default",
 		"text":"这里记录了我们从06年到现在的种种时光，我们在这近七年的时光里成长、快乐、烦恼、幸福……",
         "asset":
                 {
                     "media":"images/logo.jpg",
-                    "credit":"Copyright: Harvey-he&撒哈拉desert",
-                    "caption":"Harvey-he和撒哈拉desert的幸福时光"
+                    "credit":"Copyright: 万晨安harvey&撒哈拉desert",
+                    "caption":"@万晨安harvey和@撒哈拉desert的幸福时光"
                 },
         "date": [
             {
