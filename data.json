@@ -13,15 +13,26 @@
         "date": [
             {
                 "startDate":"2006,10,28",
-                "headline":"高中生的恋爱总是那么简单纯粹，教学楼的后门阶梯，你还记得吗？"
+                "headline":"这一天，作为高中生的娟和万里早恋了!"
             },
             {
-                "startDate":"",
-                "headline":"",
-                "text":"",
+                "startDate":"2006,10,28",
+                "headline":"我们在一起",
+                "text":"有过俩年友谊的铺垫，在这晚，下了晚自习，你终于把我追到手了！呵呵^_^，好吧！我承认是我追的你，不如说我们是俩情相悦；",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/start.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2006,10,28",
+                "headline":"我们在一起",
+                "text":"有过俩年友谊的铺垫，在这晚，下了晚自习，你终于把我追到手了！呵呵^_^，好吧！我承认是我追的你，不如说我们是俩情相悦；",
+                "asset":
+                {
+                    "media":"images/start.jpg",
                     "credit":"",
                     "caption":""
                 }
